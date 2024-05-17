@@ -1,1 +1,2 @@
 # AirPalette
+This application combines real-time hand tracking with computer vision to create a virtual drawing environment where users can draw on a canvas by moving their fingers in the air. It provides an interactive experience for creating digital art, offering features such as color selection, clearing the canvas, and saving drawings. AirPalette leverages the power of Mediapipe for accurate hand landmark detection and OpenCV for drawing functionalities, making it a versatile tool for artistic expression and digital creation.
