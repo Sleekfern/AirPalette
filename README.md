@@ -1,6 +1,6 @@
 <h2 align="center"><u>AirPalette</u></h2>
 
-![AirPalette: Bringing Your Creativity to Life, One Gesture at a Time!](https://github.com/Sleekfern/AirPalette/blob/26cb992f98d206235aa7ae8d7bd363b58be96eb8/images/2nd%20version%20implementation.jpg)
+![AirPalette: Bringing Your Creativity to Life, One Gesture at a Time!](https://github.com/Sleekfern/AirPalette/blob/26cb992f98d206235aa7ae8d7bd363b58be96eb8/images/banner3.PNG)
 <h4 align="center"> AirPalette: Bringing Your Creativity to Life, One Gesture at a Time! </h4>
 
 <p align="center">
