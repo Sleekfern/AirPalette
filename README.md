@@ -1,6 +1,6 @@
 <h2 align="center"><u>AirPalette</u></h2>
 
-![AirPalette: Bringing Your Creativity to Life, One Gesture at a Time!](images\banner3.PNG)
+![AirPalette: Bringing Your Creativity to Life, One Gesture at a Time!]([images\banner3.PNG](https://github.com/Sleekfern/AirPalette/blob/26cb992f98d206235aa7ae8d7bd363b58be96eb8/images/banner3.PNG))
 <h4 align="center"> AirPalette: Bringing Your Creativity to Life, One Gesture at a Time! </h4>
 
 <p align="center">
@@ -24,7 +24,7 @@ This application combines real-time hand tracking with computer vision to create
  - `Run the program.`
 
 ### [+] Current Implementation
-![screenshot](images\2nd version implementation.jpg)
+![screenshot]([images\2nd version implementation.jpg](https://github.com/Sleekfern/AirPalette/blob/26cb992f98d206235aa7ae8d7bd363b58be96eb8/images/2nd%20version%20implementation.jpg))
 
 ### [+] Features
  - Real-time hand tracking and drawing on a virtual canvas
